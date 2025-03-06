@@ -1,2 +1,3 @@
 # CCSDS
-(Temporary repository). CCSDS implementations.
+
+Temporary repository for CCSDS implementations
